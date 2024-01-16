@@ -34,5 +34,21 @@ namespace GuidoComba_DesafioCoderHouse
             set { _idVenta = value;}
         }
 
+        public ProductoVendido()
+        {
+            _id = 0;
+            _idProducto = 0;
+            _stock = 0;
+            _idVenta = 0;
+
+        }
+        public ProductoVendido(int Id, int IdProducto, int Stock, int IdVenta)
+        {
+            this._id = Id;
+            this._idProducto = IdProducto;
+            this._stock = Stock;
+            this._idVenta = IdVenta;
+        }
+
     }
 }

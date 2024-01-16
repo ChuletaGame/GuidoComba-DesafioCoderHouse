@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Guido\\source\\repos\\GuidoComba-DesafioCoderHouse\\GuidoComba-DesafioCoderHouse\\GuidoComba-DesafioCoderHouse.csproj": {}
+    "C:\\Users\\Guido\\Documents\\GitHub\\GuidoComba-DesafioCoderHouse\\GuidoComba-DesafioCoderHouse\\GuidoComba-DesafioCoderHouse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Guido\\source\\repos\\GuidoComba-DesafioCoderHouse\\GuidoComba-DesafioCoderHouse\\GuidoComba-DesafioCoderHouse.csproj": {
+    "C:\\Users\\Guido\\Documents\\GitHub\\GuidoComba-DesafioCoderHouse\\GuidoComba-DesafioCoderHouse\\GuidoComba-DesafioCoderHouse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Guido\\source\\repos\\GuidoComba-DesafioCoderHouse\\GuidoComba-DesafioCoderHouse\\GuidoComba-DesafioCoderHouse.csproj",
+        "projectUniqueName": "C:\\Users\\Guido\\Documents\\GitHub\\GuidoComba-DesafioCoderHouse\\GuidoComba-DesafioCoderHouse\\GuidoComba-DesafioCoderHouse.csproj",
         "projectName": "GuidoComba-DesafioCoderHouse",
-        "projectPath": "C:\\Users\\Guido\\source\\repos\\GuidoComba-DesafioCoderHouse\\GuidoComba-DesafioCoderHouse\\GuidoComba-DesafioCoderHouse.csproj",
+        "projectPath": "C:\\Users\\Guido\\Documents\\GitHub\\GuidoComba-DesafioCoderHouse\\GuidoComba-DesafioCoderHouse\\GuidoComba-DesafioCoderHouse.csproj",
         "packagesPath": "C:\\Users\\Guido\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Guido\\source\\repos\\GuidoComba-DesafioCoderHouse\\GuidoComba-DesafioCoderHouse\\obj\\",
+        "outputPath": "C:\\Users\\Guido\\Documents\\GitHub\\GuidoComba-DesafioCoderHouse\\GuidoComba-DesafioCoderHouse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Guido\\AppData\\Roaming\\NuGet\\NuGet.Config",
