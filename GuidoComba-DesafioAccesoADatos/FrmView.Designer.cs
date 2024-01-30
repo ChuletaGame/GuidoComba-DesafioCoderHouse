@@ -1,6 +1,6 @@
 ﻿namespace GuidoComba_DesafioAccesoADatos
 {
-    partial class Form1
+    partial class FrmView
     {
         /// <summary>
         ///  Required designer variable.
