@@ -1,0 +1,17 @@
+C:\Users\Guido\Documents\GitHub\GuidoComba-DesafioCoderHouse\GuidoComba-DesafioCoderHouse\bin\Debug\net6.0-windows\GuidoComba-DesafioCoderHouse.exe
+C:\Users\Guido\Documents\GitHub\GuidoComba-DesafioCoderHouse\GuidoComba-DesafioCoderHouse\bin\Debug\net6.0-windows\GuidoComba-DesafioCoderHouse.deps.json
+C:\Users\Guido\Documents\GitHub\GuidoComba-DesafioCoderHouse\GuidoComba-DesafioCoderHouse\bin\Debug\net6.0-windows\GuidoComba-DesafioCoderHouse.runtimeconfig.json
+C:\Users\Guido\Documents\GitHub\GuidoComba-DesafioCoderHouse\GuidoComba-DesafioCoderHouse\bin\Debug\net6.0-windows\GuidoComba-DesafioCoderHouse.dll
+C:\Users\Guido\Documents\GitHub\GuidoComba-DesafioCoderHouse\GuidoComba-DesafioCoderHouse\bin\Debug\net6.0-windows\GuidoComba-DesafioCoderHouse.pdb
+C:\Users\Guido\Documents\GitHub\GuidoComba-DesafioCoderHouse\GuidoComba-DesafioCoderHouse\obj\Debug\net6.0-windows\GuidoComba_DesafioCoderHouse.Form1.resources
+C:\Users\Guido\Documents\GitHub\GuidoComba-DesafioCoderHouse\GuidoComba-DesafioCoderHouse\obj\Debug\net6.0-windows\GuidoComba-DesafioCoderHouse.csproj.GenerateResource.cache
+C:\Users\Guido\Documents\GitHub\GuidoComba-DesafioCoderHouse\GuidoComba-DesafioCoderHouse\obj\Debug\net6.0-windows\GuidoComba-DesafioCoderHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guido\Documents\GitHub\GuidoComba-DesafioCoderHouse\GuidoComba-DesafioCoderHouse\obj\Debug\net6.0-windows\GuidoComba-DesafioCoderHouse.AssemblyInfoInputs.cache
+C:\Users\Guido\Documents\GitHub\GuidoComba-DesafioCoderHouse\GuidoComba-DesafioCoderHouse\obj\Debug\net6.0-windows\GuidoComba-DesafioCoderHouse.AssemblyInfo.cs
+C:\Users\Guido\Documents\GitHub\GuidoComba-DesafioCoderHouse\GuidoComba-DesafioCoderHouse\obj\Debug\net6.0-windows\GuidoComba-DesafioCoderHouse.csproj.CoreCompileInputs.cache
+C:\Users\Guido\Documents\GitHub\GuidoComba-DesafioCoderHouse\GuidoComba-DesafioCoderHouse\obj\Debug\net6.0-windows\GuidoComba-DesafioCoderHouse.sourcelink.json
+C:\Users\Guido\Documents\GitHub\GuidoComba-DesafioCoderHouse\GuidoComba-DesafioCoderHouse\obj\Debug\net6.0-windows\GuidoComba-DesafioCoderHouse.dll
+C:\Users\Guido\Documents\GitHub\GuidoComba-DesafioCoderHouse\GuidoComba-DesafioCoderHouse\obj\Debug\net6.0-windows\refint\GuidoComba-DesafioCoderHouse.dll
+C:\Users\Guido\Documents\GitHub\GuidoComba-DesafioCoderHouse\GuidoComba-DesafioCoderHouse\obj\Debug\net6.0-windows\GuidoComba-DesafioCoderHouse.pdb
+C:\Users\Guido\Documents\GitHub\GuidoComba-DesafioCoderHouse\GuidoComba-DesafioCoderHouse\obj\Debug\net6.0-windows\GuidoComba-DesafioCoderHouse.genruntimeconfig.cache
+C:\Users\Guido\Documents\GitHub\GuidoComba-DesafioCoderHouse\GuidoComba-DesafioCoderHouse\obj\Debug\net6.0-windows\ref\GuidoComba-DesafioCoderHouse.dll

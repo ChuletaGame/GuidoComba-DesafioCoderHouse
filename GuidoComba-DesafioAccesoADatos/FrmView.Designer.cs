@@ -28,12 +28,49 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            btnCargarDatos = new Button();
+            dgvListado = new DataGridView();
+            ((System.ComponentModel.ISupportInitialize)dgvListado).BeginInit();
+            SuspendLayout();
+            // 
+            // btnCargarDatos
+            // 
+            btnCargarDatos.Location = new Point(67, 47);
+            btnCargarDatos.Name = "btnCargarDatos";
+            btnCargarDatos.Size = new Size(122, 69);
+            btnCargarDatos.TabIndex = 0;
+            btnCargarDatos.Text = "Cargar Datos";
+            btnCargarDatos.UseVisualStyleBackColor = true;
+            btnCargarDatos.Click += btnCargarDatos_Click;
+            // 
+            // dgvListado
+            // 
+            dgvListado.AllowUserToAddRows = false;
+            dgvListado.AllowUserToDeleteRows = false;
+            dgvListado.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dgvListado.Location = new Point(12, 154);
+            dgvListado.Name = "dgvListado";
+            dgvListado.ReadOnly = true;
+            dgvListado.RowTemplate.Height = 25;
+            dgvListado.Size = new Size(776, 284);
+            dgvListado.TabIndex = 1;
+            // 
+            // FrmView
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(dgvListado);
+            Controls.Add(btnCargarDatos);
+            Name = "FrmView";
+            Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)dgvListado).EndInit();
+            ResumeLayout(false);
         }
 
         #endregion
+
+        private Button btnCargarDatos;
+        private DataGridView dgvListado;
     }
 }
