@@ -28,20 +28,23 @@
         /// </summary>
         private void InitializeComponent()
         {
-            btnCargarDatos = new Button();
+            btnListarUsuarios = new Button();
             dgvListado = new DataGridView();
+            btnBuscarUsuario = new Button();
+            txtId = new TextBox();
+            btnCrearUsuario = new Button();
             ((System.ComponentModel.ISupportInitialize)dgvListado).BeginInit();
             SuspendLayout();
             // 
-            // btnCargarDatos
+            // btnListarUsuarios
             // 
-            btnCargarDatos.Location = new Point(67, 47);
-            btnCargarDatos.Name = "btnCargarDatos";
-            btnCargarDatos.Size = new Size(122, 69);
-            btnCargarDatos.TabIndex = 0;
-            btnCargarDatos.Text = "Cargar Datos";
-            btnCargarDatos.UseVisualStyleBackColor = true;
-            btnCargarDatos.Click += btnCargarDatos_Click;
+            btnListarUsuarios.Location = new Point(12, 48);
+            btnListarUsuarios.Name = "btnListarUsuarios";
+            btnListarUsuarios.Size = new Size(122, 69);
+            btnListarUsuarios.TabIndex = 0;
+            btnListarUsuarios.Text = "Listar Usuarios";
+            btnListarUsuarios.UseVisualStyleBackColor = true;
+            btnListarUsuarios.Click += btnListarUsuarios_Click;
             // 
             // dgvListado
             // 
@@ -52,25 +55,60 @@
             dgvListado.Name = "dgvListado";
             dgvListado.ReadOnly = true;
             dgvListado.RowTemplate.Height = 25;
-            dgvListado.Size = new Size(776, 284);
+            dgvListado.Size = new Size(520, 307);
             dgvListado.TabIndex = 1;
+            // 
+            // btnBuscarUsuario
+            // 
+            btnBuscarUsuario.Location = new Point(140, 48);
+            btnBuscarUsuario.Name = "btnBuscarUsuario";
+            btnBuscarUsuario.Size = new Size(122, 69);
+            btnBuscarUsuario.TabIndex = 2;
+            btnBuscarUsuario.Text = "Buscar Usuario";
+            btnBuscarUsuario.UseVisualStyleBackColor = true;
+            btnBuscarUsuario.Click += btnBuscarUsuario_Click;
+            // 
+            // txtId
+            // 
+            txtId.Location = new Point(151, 123);
+            txtId.Name = "txtId";
+            txtId.PlaceholderText = "Ingrese un ID";
+            txtId.Size = new Size(100, 23);
+            txtId.TabIndex = 3;
+            // 
+            // btnCrearUsuario
+            // 
+            btnCrearUsuario.Location = new Point(268, 48);
+            btnCrearUsuario.Name = "btnCrearUsuario";
+            btnCrearUsuario.Size = new Size(122, 69);
+            btnCrearUsuario.TabIndex = 4;
+            btnCrearUsuario.Text = "Crear Usuario";
+            btnCrearUsuario.UseVisualStyleBackColor = true;
+            btnCrearUsuario.Click += btnCrearUsuario_Click;
             // 
             // FrmView
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(579, 489);
+            Controls.Add(btnCrearUsuario);
+            Controls.Add(txtId);
+            Controls.Add(btnBuscarUsuario);
             Controls.Add(dgvListado);
-            Controls.Add(btnCargarDatos);
+            Controls.Add(btnListarUsuarios);
             Name = "FrmView";
             Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)dgvListado).EndInit();
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
 
-        private Button btnCargarDatos;
+        private Button btnListarUsuarios;
         private DataGridView dgvListado;
+        private Button btnBuscarUsuario;
+        private TextBox txtId;
+        private Button btnCrearUsuario;
     }
 }

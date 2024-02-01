@@ -49,3 +49,4 @@ C:\Users\Guido\Documents\GitHub\GuidoComba-DesafioCoderHouse\GuidoComba-DesafioA
 C:\Users\Guido\Documents\GitHub\GuidoComba-DesafioCoderHouse\GuidoComba-DesafioAccesoADatos\obj\Debug\net6.0-windows\GuidoComba-DesafioAccesoADatos.pdb
 C:\Users\Guido\Documents\GitHub\GuidoComba-DesafioCoderHouse\GuidoComba-DesafioAccesoADatos\obj\Debug\net6.0-windows\GuidoComba-DesafioAccesoADatos.genruntimeconfig.cache
 C:\Users\Guido\Documents\GitHub\GuidoComba-DesafioCoderHouse\GuidoComba-DesafioAccesoADatos\obj\Debug\net6.0-windows\ref\GuidoComba-DesafioAccesoADatos.dll
+C:\Users\Guido\Documents\GitHub\GuidoComba-DesafioCoderHouse\GuidoComba-DesafioAccesoADatos\obj\Debug\net6.0-windows\GuidoComba_DesafioAccesoADatos.AMBUsuario.resources
