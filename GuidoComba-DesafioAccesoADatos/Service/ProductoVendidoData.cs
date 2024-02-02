@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GuidoComba_DesafioAccesoADatos.Service
 {
-    internal class ProductoVendidoData
+    public static class ProductoVendidoData
     {
     }
 }

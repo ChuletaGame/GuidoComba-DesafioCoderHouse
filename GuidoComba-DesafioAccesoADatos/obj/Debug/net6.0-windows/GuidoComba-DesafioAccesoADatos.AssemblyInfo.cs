@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GuidoComba-DesafioAccesoADatos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b703b92a0c3f59025823b42db73d412938800f04")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7591755278f5cb956ccfe02a23d70b6f8656518d")]
 [assembly: System.Reflection.AssemblyProductAttribute("GuidoComba-DesafioAccesoADatos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GuidoComba-DesafioAccesoADatos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -18,6 +18,15 @@ namespace GuidoComba_DesafioAccesoADatos
             InitializeComponent();
         }
 
+        public AMBUsuario(Usuario usuario):this() 
+        {
+            this.txtNombre.Text = usuario.Nombre;
+            this.txtApellido.Text = usuario.Apellido;
+            this.txtNombreUsuario.Text = usuario.NombreUsuario;
+            this.txtPassword.Text = usuario.Contraseña;
+            this.txtMail.Text = usuario.Mail;
+        }
+
         public Usuario UsuarioCreado { get; private set; }
 
         private void AMBUsuario_Load(object sender, EventArgs e)

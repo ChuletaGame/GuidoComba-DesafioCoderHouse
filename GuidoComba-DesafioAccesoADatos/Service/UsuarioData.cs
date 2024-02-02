@@ -18,8 +18,6 @@ namespace GuidoComba_DesafioAccesoADatos.Service
 
                 return usuarioBuscado;
             }
-
-
         }
 
         public static List<Usuario> ListarUsuarios()
@@ -42,6 +40,41 @@ namespace GuidoComba_DesafioAccesoADatos.Service
                 return true;
             }
         }
+
+        public static bool ModificarUsuario(Usuario usuario, int id)
+        {
+            using (CoderContext context = new CoderContext())
+            {
+                Usuario usuarioBuscado = context.Usuarios.Where(u => u.Id == id).FirstOrDefault();
+                
+                usuarioBuscado.Nombre = usuario.Nombre;
+                usuarioBuscado.Apellido = usuario.Apellido;
+                usuarioBuscado.Contraseña = usuario.Contraseña;
+                usuarioBuscado.NombreUsuario = usuario.NombreUsuario;
+                usuarioBuscado.Mail = usuario.Mail;
+
+                context.Usuarios.Update(usuarioBuscado);
+                context.SaveChanges();
+
+                return true;
+            }
+        }
+
+        public static bool EliminarUsuario(int id)
+        {
+            using (CoderContext context = new CoderContext())
+            {
+                Usuario usuarioBorrado = context.Usuarios.Where(u => u.Id == id).FirstOrDefault();     
+                if (usuarioBorrado is not null)
+                {
+                    context.Usuarios.Remove(usuarioBorrado);
+                    context.SaveChanges();
+                    return true;
+                }
+                return false;
+            }    
+        }
+
 
     }
 }
