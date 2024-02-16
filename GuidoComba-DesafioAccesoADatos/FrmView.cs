@@ -1,7 +1,3 @@
-using GuidoComba_DesafioAccesoADatos.Database;
-using GuidoComba_DesafioAccesoADatos.Models;
-using GuidoComba_DesafioAccesoADatos.Service;
-
 namespace GuidoComba_DesafioAccesoADatos
 {
     public partial class FrmView : Form
